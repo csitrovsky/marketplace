@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.3",
+        "filp/whoops": "^2.14"
+    }
+}
